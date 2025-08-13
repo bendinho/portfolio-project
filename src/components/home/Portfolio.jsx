@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import Aos from "aos";
 import "aos/dist/aos.css";
-import projectOne from "../../assets/my-Portfolio-project.png";
+import projectOne from "../../assets/my-portfolio-website.png";
 import projectTwo from "../../assets/rest-countries-project.png";
 import projectThree from "../../assets/innovateSpace-project.png";
 import linkIcon from "../../assets/icons/link-icon.svg";
@@ -28,9 +28,7 @@ function Portfolio() {
         "This is a challenge from frontend mentor. The web app basically fetches a list of countries via an API call and then displays the information to the user with the ability to sort, search and also toggle theme.",
       technologies: ["React", "Tailwind", "Daist UI"],
       siteLink: "https://rest-countries-six-sigma.vercel.app/",
-      githubLink:
-        "https://github.com/Osorachukwu/rest-countries-api-with-color-theme-switcher.git",
-      githubIcon: githubIcon,
+      
       linkIcon: linkIcon,
     },
     {

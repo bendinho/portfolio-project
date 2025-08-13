@@ -21,7 +21,7 @@ function Nav() {
           <a href="#footer">Contact</a>
         </li>
         <li className="border-l border-borderColor px-12 h-full hover:text-textLight flex flex-col justify-center dark:text-white underline whitespace-nowrap">
-          <a href="mailto:osorachukwu.ezewi@gmail.com">Fire me an email</a>
+          <a href="mailto:ebukabenjamin8@gmail.com">Fire me an email</a>
         </li>
 
         <div className="flex items-center">

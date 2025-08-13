@@ -1,8 +1,8 @@
 import React, { useEffect } from "react";
-import myPhoto from "../../assets/osorachukwuMain.png";
+import myPhoto from "../../assets/Passport.png";
 import dottedBg from "../../assets/icons/bg-dottedsmall.svg";
 // import bricks from '../../assets/icons/rectangleBg.svg'
-import resume from "../../assets/docs/osorachukwu-ezewi-cv.pdf";
+import resume from "../../assets/docs/Benjamin-chukwuebuka-cv.pdf";
 import Logo from "../Logo";
 
 function Hero() {
@@ -25,8 +25,8 @@ function Hero() {
             <div className="left-anime text-textMedium dark:text-white">
               <p className="text-textLight">Hi, my name is</p>
               <p className="font-medium text-5xl my-5 md:text-6xl lg:font-bold glitch">
-                Osorachukwu <br />
-                Ezewi{" "}
+                Anigbogu <br />
+                Chukwuebuka Benjamin{" "}
               </p>
               <p>
                 I'm a Frontend Web Developer experienced in building Industry

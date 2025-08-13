@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import resume from "../../assets/docs/osorachukwu-ezewi-cv.pdf";
+import resume from "../../assets/docs/Benjamin-chukwuebuka-cv.pdf";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
@@ -31,7 +31,7 @@ function About() {
               data-aos="fade-up"
             >
               Hello! Thank you once again for making out time to visit my
-              personal portfolio. My name is Ezewi Osorachukwu, I&#39;m a very
+              personal portfolio. My name is Anigbogu Chukwuebuka Benjamin, I&#39;m a very
               dedicated and astute software engineer with the ambition for
               mental and moral distinction.
             </p>
