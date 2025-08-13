@@ -37,8 +37,8 @@ function Portfolio() {
       description:
         " My Portfolio Website pretty much the same website you are on at the moment. I guess it's all part of what I've built after all",
       technologies: ["React", "Tailwind", "Daist UI"],
-      siteLink: "https://osorachukwu.vercel.app/",
-      githubLink: "https://github.com/Osorachukwu/my-portfolio-website.git",
+      siteLink: "https://benjaminchukwuebukaportfolio.vercel.app/",
+      githubLink: "https://github.com/bendinho/portfolio-project",
       githubIcon: githubIcon,
       linkIcon: linkIcon,
     }
